@@ -91,11 +91,3 @@ Fork the repository, create a feature branch, and submit a pull request.
 ---
 **Note:** This repository is private. Access is restricted to authorized contributors.
 ```
-### **How to Add This README to GitHub**
-1. Copy the content above into a file named `README.md` inside your repository.
-2. Run the following commands to update your repository:
-   ```sh
-   git add README.md
-   git commit -m "Updated README"
-   git push origin main
-   ```
